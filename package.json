@@ -1,0 +1,21 @@
+{
+  "name": "reactive-local-storage-library",
+  "version": "0.1.1",
+  "description": "This library would be particularly useful in single-page applications (SPAs) where state management is crucial, and persistence across sessions can enhance the user experience. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brolordenigma/reactive-local-storage-library"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^4.3.4",
+    "winston": "^3.12.0",
+    "glob": "^10.3.10",
+    "axios": "^1.6.8"
+  }
+}
